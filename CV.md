@@ -4,21 +4,21 @@ VADYM TESLIA
 **Cell:** +380(99)1704660  
 **Skype:** bekket-2000  
 **Email:** <vadym.teslia@gmail.com>    
-**WWW:** <http://teslia.me>
+**WWW:** <https://teslia.me>
 
  
 ---
 
-###SUMMARY
+### SUMMARY
 
 15 years of experience architecting, deployment and maintenance  systems on Linux, FreeBSD, and Windows platforms. Last 8 years I am focused on support virtualization, cloud, VPN and CDN solutions. Ability to work alone or in a team. Excellent problem solving skills.
 I am open to new ideas and able quickly learn new technologies.
 
-###LANGUAGES
+### LANGUAGES
 
 English – upper-intermediate, Russian – fluent, Ukrainian – native. 
 
-###TECHNICAL SKILLS
+### TECHNICAL SKILLS
 
 * #### **Cloud solutions:**  AWS, GCP, Azure, OnApp.
 
@@ -35,7 +35,7 @@ English – upper-intermediate, Russian – fluent, Ukrainian – native.
 
 * #### **Programing languages**: I use bash for sysadmin's tasks and am able to read and make small fixes in Ruby, Go and PHP.
 
-###EXPERIENCE
+### EXPERIENCE
 
 #### [OpenVPN Inc](https://openvpn.net): **Technical B2B Customer Support for Networking Solutions** (2018 – present): 
 report to Product manager 
@@ -132,6 +132,6 @@ used **BigBlueButton**, **RoR**, **Red5**, **FFmpeg**, **FreeSWITCH**, **Moodle*
 
 ### EDUCATION
 
-####[Cherkasy State Technological University](https://chdtu.edu.ua): (2003 - 2008):
+#### [Cherkasy State Technological University](https://chdtu.edu.ua): (2003 - 2008):
 Degree: **Bachelor of information technology**  
 Field of Study: **Computer system and networks**
