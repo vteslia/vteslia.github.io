@@ -2,8 +2,9 @@
 VADYM TESLIA
 ---
 **Cell:** +380(99)1704660
-**Skype:** bekket-2000
+
 **Email:** <vadym.teslia@gmail.com>
+
 **WWW:** <https://teslia.me>
 
 
