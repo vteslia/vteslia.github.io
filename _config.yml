@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'Vadym Teslia'
-description: 'Linux, cloud and CDN engineer, traveler, fanatic of railways and aviation.'
+description: 'Linux, cloud and VPN engineer, traveler, fanatic of railways and aviation.'
 
 # Images
 avatar: 'avatar.jpg'
